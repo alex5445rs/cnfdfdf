@@ -23,7 +23,6 @@ namespace Лопушок
         public MainWindow()
         {
             InitializeComponent();
-            MainFrame.Navigate(new ProdListPage());
         }
     }
 }
